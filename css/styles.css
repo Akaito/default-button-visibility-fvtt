@@ -1,0 +1,10 @@
+.dialog-buttons button.default {
+    border: 4px ridge var(--color-border-light-secondary);
+}
+.dialog-buttons button.default::before {
+	content: "> ";
+}
+.dialog-buttons button.default::after {
+	content: " <";
+}
+

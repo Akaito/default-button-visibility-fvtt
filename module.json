@@ -3,15 +3,14 @@
   "title": "Default Button Visibility",
   "description": "Just make default buttons easier to notice.",
   "author": "tas",
-  "version": "1.0.0",
-  "minimumCoreVersion": "1",
+  "version": "9.242.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9.242",
   "styles": [
       "css/styles.css"
   ],
-  "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9",
   "url": "https://github.com/Akaito/fvtt-default-button-visibility",
   "manifest": "https://raw.githubusercontent.com/Akaito/fvtt-default-button-visibility/main/module.json",
-  "download": "TODO https://github.com/Akaito/fvtt-default-button-visibility"
+  "download": "https://github.com/Akaito/default-button-visibility-fvtt/archive/refs/tags/v0.2.0.zip"
 }
 
