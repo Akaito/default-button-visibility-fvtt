@@ -1,7 +1,13 @@
-# Default Button Visibility
+<!-- Foundry compatibility info., and module popularity -->
+![Foundry Minimum Core Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2FAkaito%2Fdefault-button-visibility-fvtt%2Fmain%2Fmodule.json&label=Minimum%20Foundry%20Version&query=$.minimumCoreVersion&colorB=orange) ![Foundry Core Compatible Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2FAkaito%2Fdefault-button-visibility-fvtt%2Fmain%2Fmodule.json&label=Tested%20With%20Version&query=$.compatibleCoreVersion&colorB=orange) <!-- | ![All Releases Download Count](https://img.shields.io/github/downloads/Akaito/default-button-visibility-fvtt/total) ![Latest Release Download Count](https://img.shields.io/github/downloads/Akaito/default-button-visibility-fvtt/latest/module.zip) -->
+<!-- Badges that help identify an old, decrepit repo. -->
+![GitHub last commit (main)](https://img.shields.io/github/last-commit/Akaito/default-button-visibility-fvtt/main) ![GitHub issues](https://img.shields.io/github/issues/Akaito/default-button-visibility-fvtt) ![GitHub pull requests](https://img.shields.io/github/issues-pr/Akaito/default-button-visibility-fvtt) ![GitHub forks](https://img.shields.io/github/forks/Akaito/default-button-visibility-fvtt?style=social)
 
-![Version](https://img.shields.io/github/v/tag/Akaito/default-button-visibility-fvtt?label=Version&style=flat-square&color=2577a1) ![Downloads](https://img.shields.io/github/downloads/Akaito/default-button-visibility-fvtt/total?label=Downloads&style=flat-square&color=9b43a8)
-![Supported Foundry Versions](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fraw.githubusercontent.com%2FAkaito%2Fdefault-button-visibility-fvtt%2Fmain%2Fmodule.json) ![Supported Game Systems](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fsystem%3FnameType%3Dfull%26url%3Dhttps%3A%2F%2Fraw.githubusercontent.com%2FAkaito%2Fdefault-button-visibility-fvtt%2Fmain%2Fmodule.json)
+<!--- Forge Bazaar Install % Badge -->
+<!--- replace <your-module-name> with the `name` in your manifest -->
+<!--- ![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fdefault-button-visibility-fvtt&colorB=4aa94a) -->
+
+# Default Button Visibility
 
 Just make default buttons easier to notice.  All this module has is a tiny bit of CSS to indicate very clearly which button in any given dialog (of Foundry's normal CSS classes) is the default one.  This is completely system-agnostic, and just affects styling of Foundry UI.
 
