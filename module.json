@@ -3,9 +3,9 @@
   "title": "Default Button Visibility",
   "description": "Just make default buttons easier to notice.",
   "author": "tas",
-  "version": "9.249.0",
+  "version": "10.273.0",
   "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9.249",
+  "compatibleCoreVersion": "10",
   "styles": [
       "css/styles.css"
   ],
